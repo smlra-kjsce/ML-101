@@ -1,5 +1,8 @@
 # ML-101
-Repository of all notebooks used in ML-101 event for explaining basics of machine learning for newcomers.
+
+The video recording of both the days are now available: [Day-1](https://youtu.be/uo7tXBw6zSo), [Day-2](https://youtu.be/JBALiIkL-xA).
+
+This is a repository of all notebooks and presentations used in ML-101 event for explaining basics of machine learning for newcomers.
 
 ### Some points to note on how to use this repository:
 1. Kindly open the notebooks in Colab using the "Open in Colab" button on each notebook.
