@@ -9,7 +9,14 @@ This is a repository of all notebooks and presentations used in ML-101 event for
 2. Experiment with the code by changing hyperparameters, epochs, learning rate, etc. If you face any abnormal outputs, feel free to ping us.
 3. Kindly do the TODOs mentioned in certain notebook to explore more algorithms.
 
-Any doubts, feel free to ask your queries, especially those who couldn't attend. 
+### To read about some of these topics, check out our blogs:
+1. [Back to basics with Linear Regression](https://medium.com/@smlra_kjsce/back-to-basics-with-linear-regression-78dd7106f7bd)
+2. [Understanding Decision Trees](https://medium.com/@smlra_kjsce/understanding-decision-trees-8a3a78494836)
+3. [Supporting SVMs (Support Vector Machines)](https://medium.com/@smlra_kjsce/supporting-svms-support-vector-machines-bf5bfba88a0b)
+4. [The secrets of SVM](https://medium.com/@smlra_kjsce/vectorized-view-of-svms-6a85dae8ca72)
+
+
+Any doubts, feel free to ask your queries, especially those who couldn't attend at aicouncil.kjsce@somaiya.edu.
 
 Cheers,
 SMLRA 👨‍💻
