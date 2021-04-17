@@ -16,7 +16,7 @@ This is a repository of all notebooks and presentations used in ML-101 event for
 4. [The secrets of SVM](https://medium.com/@smlra_kjsce/vectorized-view-of-svms-6a85dae8ca72)
 
 
-Any doubts, feel free to ask your queries, especially those who couldn't attend at aicouncil.kjsce@somaiya.edu.
+Any doubts, feel free to ask your queries, especially those who couldn't attend at smlra-kjsce@somaiya.edu.
 
 
 <h3 align="center"><b>Developed with :heart: by: </b></h3>
